@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "451247143278",
+    "firebase_url": "https://dailybread-6b63a-default-rtdb.firebaseio.com",
+    "project_id": "dailybread-6b63a",
+    "storage_bucket": "dailybread-6b63a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451247143278:android:ba184b0c7c820e6f60697f",
+        "android_client_info": {
+          "package_name": "com.example.daily_bread"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451247143278-9ov0no7q6j9fg7i3u13kmvtmcui8uiu0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCToEGY6IE6iXODvQTbYqMf5zxr73l9t0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451247143278-9ov0no7q6j9fg7i3u13kmvtmcui8uiu0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
